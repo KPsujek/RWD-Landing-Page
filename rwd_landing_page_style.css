@@ -1,0 +1,42 @@
+body{
+    background-color: grey;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+header{
+    background-image: url("apartments-photography.jpeg");
+    max-width: 100%;
+    height: auto;
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+    padding-left: 200px;
+    padding-right: 200px;
+    display: flex;
+}
+
+.logo{
+    padding: 100px 50px 0px 50px;
+    font-size: 50px;
+    color: #73288C;
+}
+
+.logo_minor_text{
+    font-size: 20px;
+    padding-left: 50px;
+    color: #73288C
+}
+
+.logo img{
+    margin-right: 10px;
+}
+
+h1{
+    color: #ffffff;
+    padding: 50px 50px;
+}
+
+h3{
+    padding-bottom: 100px;
+    padding: 50px 50px;
+}
