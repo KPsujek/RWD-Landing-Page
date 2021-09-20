@@ -56,3 +56,15 @@ header h1{
     font-size: 25px;
     color: #73288C;
 }
+
+.right_container{
+    background-color: #dbdbdb;
+    opacity: 0.5;
+    padding: 20px 20px;
+    margin: 200px 10px 0px 200px;
+}
+
+#form{
+    font-size: 20px;
+    font-weight: 500;
+}
