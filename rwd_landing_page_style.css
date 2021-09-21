@@ -1,5 +1,5 @@
 body{
-    background-color: grey;
+    background-color: #ffffff;
     padding: 0;
     font-family: 'Roboto', sans-serif;
 }
@@ -67,4 +67,21 @@ header h1{
 #form{
     font-size: 20px;
     font-weight: 500;
+}
+
+.grey_container{
+    padding: 30px 250px 30px 250px;
+    background-color: #dbdbdb;
+    text-align: center;
+    font-size: 25px;
+}
+
+.round_images{
+    display: flex;
+    margin-top: 70px;
+    align-items: center;
+}
+
+.round_photos_container img{
+    border-radius: 50%;
 }
