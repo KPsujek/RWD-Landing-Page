@@ -79,9 +79,50 @@ header h1{
 .round_images{
     display: flex;
     margin-top: 70px;
-    align-items: center;
+    margin-bottom: 70px;
 }
 
 .round_photos_container img{
     border-radius: 50%;
+    width: 200px;
+}
+
+.round_photos_container{
+    text-align: center;
+    padding: 0 50px;
+}
+
+.location_section{
+    background-color: #333232;
+    color: #ede8e8;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    padding-left: 150px;
+    padding-right: 150px;
+    display: flex;
+}
+
+.adress_box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+}
+
+.logo_icon{
+    padding-right: 20px;
+}
+
+.about_adress_box{
+    width: 50%
+}
+
+h1{
+    color: #73288C;
+    font-size: 40px;
+}
+
+p{
+    font-size: 16px;
+    }
 }
