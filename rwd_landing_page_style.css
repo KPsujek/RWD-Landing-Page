@@ -125,4 +125,23 @@ h1{
 p{
     font-size: 16px;
     }
+
+.room_section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.square_photo{
+    margin-top: 150px;
+    margin-bottom: 150px;
+    margin-left: 250px;
+    margin-right: 100px;
+}
+
+.square_text{
+    font-size: 50px;
+    margin-left: 50px;
+    margin-right: 250px;
+    font-weight: 800;
 }
