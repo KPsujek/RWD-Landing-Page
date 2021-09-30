@@ -128,20 +128,40 @@ p{
 
 .room_section{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     align-items: center;
+    margin-top: 120px;
 }
 
 .square_photo{
-    margin-top: 150px;
-    margin-bottom: 150px;
-    margin-left: 250px;
-    margin-right: 100px;
+    padding-left: 250px;
+    padding-right: 100px;
 }
 
 .square_text{
-    font-size: 50px;
-    margin-left: 50px;
-    margin-right: 250px;
-    font-weight: 800;
+    font-size: 40px;
+    padding-left: 50px;
+    padding-right: 200px;
+    font-weight: 700;
+}
+
+.square_photo_2{
+    padding-left: 50px;
+    padding-right: 100px;
+}
+
+.square_text_2{
+    font-size: 40px;
+    padding-left: 300px;
+    padding-right: 50px;
+    font-weight: 700;
+}
+
+.list_title{
+    color: #000000;
+}
+
+li{
+    font-size: 20px;
+    font-weight: 300;
 }
