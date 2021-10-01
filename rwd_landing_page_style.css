@@ -207,3 +207,23 @@ button:hover{
     color: #2b292b;
 }
 
+.opinion_section{
+    background-color: #333232;
+    color: #ede8e8;
+    padding-top: 70px;
+    padding-left: 150px;
+    padding-right: 150px;
+    margin-top: 120px;
+    display: flex;
+    justify-content: center;
+}
+
+#opinion_text{
+    font-size: 30px;
+    margin-left: 70px;
+}
+
+#name_text{
+    color: #73288C;
+    margin-top: 30px;
+}
